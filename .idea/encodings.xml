@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/.venv/MMD_helper/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.venv/MMD_helper/merge_materials.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.venv/MMD_helper/panel.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.venv/MMD_helper/remove_physics.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/helper.py" charset="UTF-8" />
+  </component>
+</project>
